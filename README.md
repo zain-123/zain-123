@@ -14,7 +14,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🌱 I’m currently learning Soliity, web3, Python, Git, GitHub
+- 🌱 I’m currently learning Soliity, Javascript, Reactjs, Python, Git, GitHub.
   
 - 👯 I’m looking to collaborate on Blockchain/Web3 projects
   
