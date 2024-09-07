@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/waving.gif">, I'm Zain
-<h4 align="center">MCA (Master of Computer Application) student at Jain College of Engineering 
+<h4 align="center">Frontend Developer 
 </div>
 
 <div align="center">
